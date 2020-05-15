@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Tarea_1</string>
+    <string name="hint_nombre">Ingrese Nombre</string>
+    <string name="hint_apellido">Ingrese Apellido</string>
+    <string name="hint_dni">Ingrese DNI</string>
+    <string name="hint_celular">Ingrese Celular</string>
+    <string name="hint_check">No tengo ninguno de estos síntomas</string>
+    <string name="hint_send">Enviar</string>
 </resources>
